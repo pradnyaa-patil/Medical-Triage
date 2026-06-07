@@ -1,0 +1,59 @@
+body {
+    background-color: #f4f6f9;
+    font-family: Arial, sans-serif;
+}
+
+.container-box {
+    max-width: 500px;
+    margin: 50px auto;
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.chat-box {
+    height: 400px;
+    overflow-y: auto;
+    border: 1px solid #ccc;
+    padding: 10px;
+    background: white;
+}
+
+.message {
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 10px;
+}
+
+.user-message {
+    background-color: #d1e7dd;
+    text-align: right;
+}
+
+.bot-message {
+    background-color: #f8d7da;
+}
+
+.severity-card {
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    color: white;
+}
+
+.low {
+    background-color: green;
+}
+
+.medium {
+    background-color: orange;
+}
+
+.urgent {
+    background-color: red;
+}
+
+.emergency {
+    background-color: darkred;
+}

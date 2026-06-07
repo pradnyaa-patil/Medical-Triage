@@ -1,0 +1,97 @@
+body {
+
+    background-color: #f4f6f9;
+}
+
+.severity-link {
+
+    display: block;
+
+    text-align: center;
+
+    padding: 15px;
+
+    border-radius: 10px;
+
+    text-decoration: none;
+
+    color: white;
+
+    font-weight: bold;
+
+    font-size: 18px;
+
+    transition: 0.3s;
+}
+
+.severity-link:hover {
+
+    transform: scale(1.05);
+
+    color: white;
+}
+
+.emergency {
+
+    background: #dc3545;
+}
+
+.urgent {
+
+    background: #fd7e14;
+}
+
+.severe {
+
+    background: #ffc107;
+
+    color: black;
+}
+
+.medium {
+
+    background: #0dcaf0;
+}
+
+.low {
+
+    background: #198754;
+}
+
+.results-panel {
+
+    background: white;
+
+    border-radius: 10px;
+
+    padding: 20px;
+
+    min-height: 500px;
+
+    box-shadow: 0px 2px 8px rgba(0,0,0,0.2);
+}
+
+.patient-card {
+
+    background: #fafafa;
+
+    border-left: 6px solid #0d6efd;
+
+    margin-bottom: 15px;
+
+    padding: 15px;
+
+    border-radius: 8px;
+
+    box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
+}
+
+.patient-card h5 {
+
+    color: #0d6efd;
+}
+
+.label {
+
+    font-weight: bold;
+}

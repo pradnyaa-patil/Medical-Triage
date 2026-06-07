@@ -1,0 +1,122 @@
+[
+  {
+    "symptom": "chest pain",
+    "severity": "URGENT",
+    "reason": "Possible cardiac condition",
+    "attentionWindow": "1-3 hours"
+  },
+  {
+    "symptom": "shortness of breath",
+    "severity": "EMERGENCY",
+    "reason": "Possible respiratory distress",
+    "attentionWindow": "< 1 hour"
+  },
+  {
+    "symptom": "difficulty breathing",
+    "severity": "EMERGENCY",
+    "reason": "Airway or lung emergency",
+    "attentionWindow": "< 1 hour"
+  },
+  {
+    "symptom": "unconsciousness",
+    "severity": "EMERGENCY",
+    "reason": "Loss of consciousness requires immediate care",
+    "attentionWindow": "< 1 hour"
+  },
+  {
+    "symptom": "seizure",
+    "severity": "EMERGENCY",
+    "reason": "Neurological emergency",
+    "attentionWindow": "< 1 hour"
+  },
+  {
+    "symptom": "stroke symptoms",
+    "severity": "EMERGENCY",
+    "reason": "Possible stroke",
+    "attentionWindow": "< 1 hour"
+  },
+  {
+    "symptom": "severe bleeding",
+    "severity": "EMERGENCY",
+    "reason": "Risk of significant blood loss",
+    "attentionWindow": "< 1 hour"
+  },
+  {
+    "symptom": "high fever",
+    "severity": "SEVERE",
+    "reason": "Possible serious infection",
+    "attentionWindow": "5-12 hours"
+  },
+  {
+    "symptom": "persistent vomiting",
+    "severity": "SEVERE",
+    "reason": "Risk of dehydration",
+    "attentionWindow": "5-12 hours"
+  },
+  {
+    "symptom": "severe abdominal pain",
+    "severity": "SEVERE",
+    "reason": "Possible internal condition requiring evaluation",
+    "attentionWindow": "5-12 hours"
+  },
+  {
+    "symptom": "dehydration",
+    "severity": "SEVERE",
+    "reason": "May require urgent treatment",
+    "attentionWindow": "5-12 hours"
+  },
+  {
+    "symptom": "fever",
+    "severity": "MEDIUM",
+    "reason": "Possible infection",
+    "attentionWindow": "1-2 days"
+  },
+  {
+    "symptom": "cough",
+    "severity": "MEDIUM",
+    "reason": "Respiratory illness assessment needed",
+    "attentionWindow": "1-2 days"
+  },
+  {
+    "symptom": "sore throat",
+    "severity": "MEDIUM",
+    "reason": "Possible infection",
+    "attentionWindow": "1-2 days"
+  },
+  {
+    "symptom": "ear pain",
+    "severity": "MEDIUM",
+    "reason": "May indicate infection",
+    "attentionWindow": "1-2 days"
+  },
+  {
+    "symptom": "rash",
+    "severity": "MEDIUM",
+    "reason": "Requires clinical review",
+    "attentionWindow": "1-2 days"
+  },
+  {
+    "symptom": "back pain",
+    "severity": "LOW",
+    "reason": "Usually non-emergency unless accompanied by red flags",
+    "attentionWindow": "1-2 weeks"
+  },
+  {
+    "symptom": "mild headache",
+    "severity": "LOW",
+    "reason": "Common non-urgent symptom",
+    "attentionWindow": "1-2 weeks"
+  },
+  {
+    "symptom": "joint pain",
+    "severity": "LOW",
+    "reason": "Routine evaluation recommended",
+    "attentionWindow": "1-2 weeks"
+  },
+  {
+    "symptom": "fatigue",
+    "severity": "LOW",
+    "reason": "Often non-urgent but should be monitored",
+    "attentionWindow": "1-2 weeks"
+  }
+]
